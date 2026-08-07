@@ -34,7 +34,7 @@ This repository showcases my projects, technical skills, and continuous learning
 ## 📜 Certificates
 - [Data Analytics & Software Development with AI Certificate](https://www.linkedin.com/in/zulfira-b95ba4281/overlay/Education/959557216/treasury/?profileId=ACoAAESyn6EBqt3O-YPfzSAd96xKN2kLP5PIZYQ) (Feb - Jun 2024) (RevoU Tech Academy)
 
-## 📫 Contact
+## Contact
 - 📧 Email: zulfiiraaa@gmail.com
 - 💼 LinkedIn: [Zulfira](https://www.linkedin.com/in/zulfira-b95ba4281/)
 - 📱 WhatsApp: [Chat with me](https://wa.me/6285343811123)
