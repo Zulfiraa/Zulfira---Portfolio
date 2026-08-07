@@ -23,7 +23,7 @@ This repository showcases my projects, technical skills, and continuous learning
     - [Sales Dashboard](#sales-dashboard)
 - [Education](#education)
 - [Certificates](#certificates)
-- [Contact](contact)
+- [Contact](#contact)
 
 ## 🎓 Education
 **Hasanuddin University** | Makassar, Indonesia, 2021 - 2025  
