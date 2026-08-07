@@ -11,7 +11,7 @@ This repository showcases my projects, technical skills, and continuous learning
 ## Table of Contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
-  - [Python](#python)
+  - [Excel](#excel)
     - [Office Supplies Sales Analysis](#office-supplies-sales-analysis)
     - [Movie Success Analysis](#movie-success-analysis)
   - [SQL](#sql)
