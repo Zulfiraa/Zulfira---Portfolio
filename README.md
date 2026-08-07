@@ -25,11 +25,10 @@ This repository showcases my projects, technical skills, and continuous learning
 - [Certificates](#certificates)
 - [Contact](contact)
 
-## Education
 ## 🎓 Education
 **Hasanuddin University** | Makassar, Indonesia, 2021 - 2025  
 **Bachelor of Statistics (S.Stat.)**  
-- GPA: 3.xx/4.00 *(opsional)*
+- GPA: 3.73/4.00
 - Relevant Coursework: Statistical Modeling, Data Analysis, Data Mining, Machine Learning, Database Systems, Time Series Analysis.
 ## Certificates
 ## Contact
