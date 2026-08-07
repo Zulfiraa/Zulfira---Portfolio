@@ -12,7 +12,7 @@ This repository showcases my projects, technical skills, and continuous learning
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
   - [Excel](#excel)
-    - [Office Supplies Sales Analysis](#office-supplies-sales-analysis)
+    - [Office Supplies Sales Analysis](https://github.com/Zulfiraa/Office-Supplies-Sales-Analyst)
     - [Movie Success Analysis](#movie-success-analysis)
   - [SQL](#sql)
     - [COVID-19 Data Exploration](#covid-19-data-exploration)
