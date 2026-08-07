@@ -30,7 +30,10 @@ This repository showcases my projects, technical skills, and continuous learning
 **Bachelor of Statistics (S.Stat.)**  
 - GPA: 3.73/4.00
 - Relevant Coursework: Statistical Modeling, Data Analysis, Data Mining, Machine Learning, Database Systems, Time Series Analysis.
-## Certificates
+
+## 📜 Certificates
+- [RevoU Tech Academy - Learn Data Analytics & Software Development with AI Certificate](https://www.linkedin.com/in/zulfira-b95ba4281/overlay/Education/959557216/treasury/?profileId=ACoAAESyn6EBqt3O-YPfzSAd96xKN2kLP5PIZYQ)
+
 ## 📫 Contact
 - 📧 Email: zulfiiraaa@gmail.com
 - 💼 LinkedIn: [Zulfira](https://www.linkedin.com/in/zulfira-b95ba4281/)
