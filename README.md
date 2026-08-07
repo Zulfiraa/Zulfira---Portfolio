@@ -10,3 +10,14 @@ This repository showcases my projects, technical skills, and continuous learning
 
 ## Table of Contents
 - [About](#about)
+- [Portfolio Projects](#portfolio-projects)
+  - [Python](#python)
+    - [Office Supplies Sales Analysis](#office-supplies-sales-analysis)
+    - [Movie Success Analysis](#movie-success-analysis)
+  - [SQL](#sql)
+    - [COVID-19 Data Exploration](#covid-19-data-exploration)
+    - [Nashville Housing Data Cleaning](#nashville-housing-data-cleaning)
+  - [R](#r)
+    - [Cashew Production Analysis](#cashew-production-analysis)
+  - [Tableau](#tableau)
+    - [Sales Dashboard](#sales-dashboard)
