@@ -25,13 +25,13 @@ This repository showcases my projects, technical skills, and continuous learning
 - [Certificates](#certificates)
 - [Contact](#contact)
 
-## 🎓 Education
+## Education
 **Hasanuddin University** | Makassar, Indonesia, 2021 - 2025  
 **Bachelor of Statistics (S.Stat.)**  
 - GPA: 3.73/4.00
 - Relevant Coursework: Statistical Modeling, Data Analysis, Data Mining, Machine Learning, Database Systems, Time Series Analysis.
 
-## 📜 Certificates
+## Certificates
 - [Data Analytics & Software Development with AI Certificate](https://www.linkedin.com/in/zulfira-b95ba4281/overlay/Education/959557216/treasury/?profileId=ACoAAESyn6EBqt3O-YPfzSAd96xKN2kLP5PIZYQ) (Feb - Jun 2024) (RevoU Tech Academy)
 
 ## Contact
