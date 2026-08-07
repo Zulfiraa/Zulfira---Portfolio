@@ -31,4 +31,8 @@ This repository showcases my projects, technical skills, and continuous learning
 - GPA: 3.73/4.00
 - Relevant Coursework: Statistical Modeling, Data Analysis, Data Mining, Machine Learning, Database Systems, Time Series Analysis.
 ## Certificates
-## Contact
+## 📫 Contact
+- 📧 Email: zulfiiraaa@gmail.com
+- 💼 LinkedIn: [Zulfira](https://www.linkedin.com/in/zulfira-b95ba4281/)
+- 📱 WhatsApp: [Chat with me](https://wa.me/6285343811123)
+- 💻 GitHub: [zulfira](https://github.com/Zulfiraa/)
