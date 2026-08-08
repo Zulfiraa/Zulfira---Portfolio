@@ -25,6 +25,15 @@ This repository showcases my projects, technical skills, and continuous learning
 - [Certificates](#certificates)
 - [Contact](#contact)
 
+## Portfolio Projects
+**Office Supplies Sales Analysis**
+**Goal**: To examine
+**Code**:
+**Description**:
+**Skills**:
+**Technology**:
+**Results**:
+
 ## Education
 **Hasanuddin University** | Makassar, Indonesia, 2021 - 2025  
 **Bachelor of Statistics (S.Stat.)**  
