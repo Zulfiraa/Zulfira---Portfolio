@@ -12,7 +12,7 @@ This repository showcases my projects, technical skills, and continuous learning
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
   - [Excel](#excel)
-    - [Office Supplies Sales Analysis](https://github.com/Zulfiraa/Office-Supplies-Sales-Analyst)
+    - [Office Supplies Sales Analyst](#office-supplies-sales-analyst)
     - [Movie Success Analysis](#movie-success-analysis)
   - [SQL](#sql)
     - [COVID-19 Data Exploration](#covid-19-data-exploration)
@@ -26,15 +26,19 @@ This repository showcases my projects, technical skills, and continuous learning
 - [Contact](#contact)
 
 ## Portfolio Projects
-<h1>**Office Supplies Sales Analysis**</h1>
+### Office Supplies Sales Analyst
 
-**Goal**: To examine
+**Goal**: To analyze sales performance and support consistent revenue growth through effective inventory and marketing strategies.
 
-**Code**:
-**Description**:
-**Skills**:
-**Technology**:
-**Results**:
+**Code**:[Office Supplies Sales Analysis Repository](https://github.com/Zulfiraa/Office-Supplies-Sales-Analyst)
+
+**Description**: The dataset contains sales transaction records for office supplies, including order date, ship date, customer, segment, city, state, category, sub-category, product name, sales, quantity, discount, and profit. The analysis includes data loading, data cleaning and preprocessing, exploratory data analysis (EDA), sales performance analysis, and data visualization to identify key business insights.
+
+**Skills**: data cleaning, data analysis, data visualization
+
+**Technology**: Excel, Pivot table, Tableau
+
+**Results**:The analysis shows total sales significant fluctuations in monthly sales. The findings highlight periods of high and low sales and identify the products and categories contributing most to overall performance. The analysis also reveals opportunities to improve sales consistency through better inventory planning and a more effective promotional calendar. These insights support strategies to stabilize monthly sales, maintain consistent demand, and improve overall revenue performance.
 
 ## Education
 **Hasanuddin University** | Makassar, Indonesia, 2021 - 2025  
