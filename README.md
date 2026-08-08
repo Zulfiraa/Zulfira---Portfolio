@@ -18,7 +18,7 @@ This repository showcases my projects, technical skills, and continuous learning
     - [COVID-19 Data Exploration](#covid-19-data-exploration)
     - [Nashville Housing Data Cleaning](#nashville-housing-data-cleaning)
   - [R](#r)
-    - [Cashew Production Analysis](#cashew-production-analysis)
+    - [Ecommerce Sales Forecasting](#ecommerce-sales-forecasting)
   - [Tableau](#tableau)
     - [Sales Dashboard](#sales-dashboard)
 - [Education](#education)
@@ -39,6 +39,19 @@ This repository showcases my projects, technical skills, and continuous learning
 **Technology**: Excel, Pivot table, Tableau
 
 **Results**:The analysis shows total sales significant fluctuations in monthly sales. The findings highlight periods of high and low sales and identify the products and categories contributing most to overall performance. The analysis also reveals opportunities to improve sales consistency through better inventory planning and a more effective promotional calendar. These insights support strategies to stabilize monthly sales, maintain consistent demand, and improve overall revenue performance.
+
+### Ecommerce Sales Forecasting
+**Goal**: To forecast future sales and identify seasonal patterns to support inventory planning and business decision-making.
+
+**Code**:[Ecommerce Sales Forecasting Repository](https://github.com/Zulfiraa/Ecommerce-Sales-Forecasting/blob/main/README.md)
+
+**Description**: The project analyzes historical sales data to identify trends, seasonal patterns, and fluctuations in demand. The analysis includes data cleaning, exploratory data analysis, time series decomposition, and sales forecasting using statistical models.
+
+**Skills**: Data cleaning, exploratory data analysis, time series analysis, forecasting, data visualization, statistical modeling.
+
+**Technology**: R, RStudio, tidyverse, ggplot2, forecast, lubridate.
+
+**Results**:The analysis identifies historical sales trends and seasonal patterns and generates forecasts for future sales. The results provide insights that can support inventory planning, targeted marketing, and Promotional Marketing.
 
 ## Education
 **Hasanuddin University** | Makassar, Indonesia, 2021 - 2025  
