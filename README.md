@@ -26,7 +26,7 @@ This repository showcases my projects, technical skills, and continuous learning
 - [Contact](#contact)
 
 ## Portfolio Projects
-**Office Supplies Sales Analysis**
+<h1>**Office Supplies Sales Analysis**</h1>
 
 **Goal**: To examine
 
