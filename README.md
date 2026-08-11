@@ -52,15 +52,15 @@ This repository showcases my projects, technical skills, and continuous learning
 **Results**:The analysis identifies historical sales trends and seasonal patterns and generates forecasts for future sales. The results provide insights that can support inventory planning, targeted marketing, and Promotional Marketing.
 
 ### Employee Attrition Analysis
-**Goal**: To forecast future sales and identify seasonal patterns to support inventory planning and business decision-making.
+**Goal**: To identify employee attrition patterns and key factors associated with employee turnover to support data-driven employee retention strategies.
 
-**Code**:[Ecommerce Sales Forecasting Repository](https://github.com/Zulfiraa/Ecommerce-Sales-Forecasting/blob/main/README.md)
+**Code**:[Employee Attrition Analysis Repository](https://github.com/Zulfiraa/Employee-Attrition-Analysis/tree/main)
 
-**Description**: The project analyzes historical sales data to identify trends, seasonal patterns, and fluctuations in demand. The analysis includes data cleaning, exploratory data analysis, time series decomposition, and sales forecasting using statistical models.
+**Description**: The project analyzes employee data to identify attrition patterns across departments and job roles. The analysis includes data validation, attrition rate analysis, department and job role analysis, and comparison of workplace factors between employees who stayed and those who left.
 
-**Skills**: Data cleaning, exploratory data analysis, time series analysis, forecasting, data visualization, statistical modeling.
+**Skills**: SQL data cleaning, exploratory data analysis,data aggregation, data visualization, business insights.
 
-**Technology**: MySQL, group by, order by, Excel
+**Technology**: MySQL, SQL, Excel
 
 **Results**:The analysis indicates that employee attrition is associated with several workplace factors, particularly overtime, burnout, and work-life balance. Customer Support and Sales roles require greater attention due to their relatively high attrition rates. The company should prioritize workload management, employee well-being, and targeted retention strategies to improve workforce stability.
 
