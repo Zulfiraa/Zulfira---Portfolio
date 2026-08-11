@@ -13,10 +13,8 @@ This repository showcases my projects, technical skills, and continuous learning
 - [Portfolio Projects](#portfolio-projects)
   - [Excel](#excel)
     - [Office Supplies Sales Analyst](#office-supplies-sales-analyst)
-    - [Movie Success Analysis](#movie-success-analysis)
   - [SQL](#sql)
-    - [COVID-19 Data Exploration](#covid-19-data-exploration)
-    - [Nashville Housing Data Cleaning](#nashville-housing-data-cleaning)
+    - [Employee Attrition Analysis](#employee-attrition-analysis)
   - [R](#r)
     - [Ecommerce Sales Forecasting](#ecommerce-sales-forecasting)
   - [Tableau](#tableau)
@@ -52,6 +50,19 @@ This repository showcases my projects, technical skills, and continuous learning
 **Technology**: R, RStudio, tidyverse, ggplot2, forecast, lubridate.
 
 **Results**:The analysis identifies historical sales trends and seasonal patterns and generates forecasts for future sales. The results provide insights that can support inventory planning, targeted marketing, and Promotional Marketing.
+
+### Employee Attrition Analysis
+**Goal**: To forecast future sales and identify seasonal patterns to support inventory planning and business decision-making.
+
+**Code**:[Ecommerce Sales Forecasting Repository](https://github.com/Zulfiraa/Ecommerce-Sales-Forecasting/blob/main/README.md)
+
+**Description**: The project analyzes historical sales data to identify trends, seasonal patterns, and fluctuations in demand. The analysis includes data cleaning, exploratory data analysis, time series decomposition, and sales forecasting using statistical models.
+
+**Skills**: Data cleaning, exploratory data analysis, time series analysis, forecasting, data visualization, statistical modeling.
+
+**Technology**: MySQL, group by, order by, Excel
+
+**Results**:The analysis indicates that employee attrition is associated with several workplace factors, particularly overtime, burnout, and work-life balance. Customer Support and Sales roles require greater attention due to their relatively high attrition rates. The company should prioritize workload management, employee well-being, and targeted retention strategies to improve workforce stability.
 
 ## Education
 **Hasanuddin University** | Makassar, Indonesia, 2021 - 2025  
