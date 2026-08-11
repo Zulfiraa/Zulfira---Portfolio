@@ -6,7 +6,7 @@ I have experience working with **Excel, SQL, Python, R, Tableau, and Power BI** 
 
 This repository showcases my projects, technical skills, and continuous learning journey in **Data Analytics**, as I continue to develop my skills and pursue opportunities in the field.
 
-📄 **CV:** [Download CV](./CV_Zulfira.pdf)
+📄 **CV:** [View CV](./CV_Zulfira.pdf)
 
 ## Table of Contents
 - [About](#about)
