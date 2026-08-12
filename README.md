@@ -19,8 +19,6 @@ This repository showcases my projects, technical skills, and continuous learning
     - [Ecommerce Sales Forecasting](#ecommerce-sales-forecasting)
   - [Power BI](#power-bi)
     - [Furniture Sales Analyst](#furniture-sales-analyst)
-  - [Tableau](#tableau)
-    - [Sales Dashboard](#sales-dashboard)
 - [Education](#education)
 - [Certificates](#certificates)
 - [Contact](#contact)
