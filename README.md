@@ -71,7 +71,7 @@ This repository showcases my projects, technical skills, and continuous learning
 
 **Code**:[Furniture Sales Analysis](./Furniture%20Sales.pbix)
 
-**Description**: The dataset contains sales transaction records for furniture, including order date, ship date, customer, segment, city, state, category, sub-category, product name, sales, quantity, discount, and profit. The analysis includes data loading, data cleaning and preprocessing, data analysi, sales performance analysis, and data visualization to identify key business insights.
+**Description**: The dataset contains sales transaction records for furniture, including order date, ship date, customer, segment, city, state, category, sub-category, product name, sales, quantity, discount, and profit. The analysis includes data loading, data cleaning and preprocessing, data analysis, sales performance analysis, and data visualization to identify key business insights.
 
 **Skills**: data cleaning, data analysis, data modelling, DAX, data visualization, dashboard development, business insight
 
