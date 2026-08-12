@@ -2,7 +2,7 @@
 ## About
 Hello! I'm **Zulfira**, a Statistics graduate from Hasanuddin University with a passion for turning data into actionable insights. My background in statistics and practical experience in data analysis have strengthened my analytical, problem solving, and data visualization skills.
 
-I have experience working with **Excel, SQL, Python, R, Tableau, and Power BI** to clean, analyze, and visualize data for business decision-making. I enjoy discovering patterns, creating dashboards, and communicating insights through compelling visualizations.
+I have experience working with **Excel, SQL, R, Tableau, and Power BI** to clean, analyze, and visualize data for business decision-making. I enjoy discovering patterns, creating dashboards, and communicating insights through compelling visualizations.
 
 This repository showcases my projects, technical skills, and continuous learning journey in **Data Analytics**, as I continue to develop my skills and pursue opportunities in the field.
 
@@ -18,7 +18,7 @@ This repository showcases my projects, technical skills, and continuous learning
   - [R](#r)
     - [Ecommerce Sales Forecasting](#ecommerce-sales-forecasting)
   - [Power BI](#power-bi)
-    - [Furniture Sales Analyst](#office-supplies-sales-analyst)
+    - [Furniture Sales Analyst](#furniture-sales-analyst)
   - [Tableau](#tableau)
     - [Sales Dashboard](#sales-dashboard)
 - [Education](#education)
@@ -69,8 +69,7 @@ This repository showcases my projects, technical skills, and continuous learning
 ### Furniture Sales Analyst
 **Goal**: To analyze sales performance and support consistent revenue growth through effective inventory and marketing strategies.
 
-**Code**:[Furniture Sales Analysis](./)
-
+**Code**:[Furniture Sales Analysis](./Furniture%20Sales.pbix)
 
 **Description**: The dataset contains sales transaction records for furniture, including order date, ship date, customer, segment, city, state, category, sub-category, product name, sales, quantity, discount, and profit. The analysis includes data loading, data cleaning and preprocessing, data analysi, sales performance analysis, and data visualization to identify key business insights.
 
