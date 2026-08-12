@@ -69,7 +69,8 @@ This repository showcases my projects, technical skills, and continuous learning
 ### Furniture Sales Analyst
 **Goal**: To analyze sales performance and support consistent revenue growth through effective inventory and marketing strategies.
 
-**Code**:[Furniture Sales Analysis](./Furniture%20Sales.pbix)
+**Code**: [Furniture Sales Analysis](./Furniture%20Sales.pbix)
+**Dashboard**: [View Dashboard](./Dashboard%20Furniture%20Sales.png)
 
 **Description**: The dataset contains sales transaction records for furniture, including order date, ship date, customer, segment, city, state, category, sub-category, product name, sales, quantity, discount, and profit. The analysis includes data loading, data cleaning and preprocessing, data analysis, sales performance analysis, and data visualization to identify key business insights.
 
