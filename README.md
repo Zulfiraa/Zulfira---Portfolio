@@ -17,6 +17,8 @@ This repository showcases my projects, technical skills, and continuous learning
     - [Employee Attrition Analysis](#employee-attrition-analysis)
   - [R](#r)
     - [Ecommerce Sales Forecasting](#ecommerce-sales-forecasting)
+  - [Power BI](#power-bi)
+    - [Furniture Sales Analyst](#office-supplies-sales-analyst)
   - [Tableau](#tableau)
     - [Sales Dashboard](#sales-dashboard)
 - [Education](#education)
@@ -63,6 +65,20 @@ This repository showcases my projects, technical skills, and continuous learning
 **Technology**: MySQL, SQL, Excel
 
 **Results**:The analysis indicates that employee attrition is associated with several workplace factors, particularly overtime, burnout, and work-life balance. Customer Support and Sales roles require greater attention due to their relatively high attrition rates. The company should prioritize workload management, employee well-being, and targeted retention strategies to improve workforce stability.
+
+### Furniture Sales Analyst
+**Goal**: To analyze sales performance and support consistent revenue growth through effective inventory and marketing strategies.
+
+**Code**:[Furniture Sales Analysis](./)
+
+
+**Description**: The dataset contains sales transaction records for furniture, including order date, ship date, customer, segment, city, state, category, sub-category, product name, sales, quantity, discount, and profit. The analysis includes data loading, data cleaning and preprocessing, data analysi, sales performance analysis, and data visualization to identify key business insights.
+
+**Skills**: data cleaning, data analysis, data modelling, DAX, data visualization, dashboard development, business insight
+
+**Technology**: Microsoft Power BI, Power Query, DAX, Data Visualization
+
+**Results**:The analysis shows total sales significant fluctuations in monthly sales. The findings highlight periods of high and low sales and identify the products and categories contributing most to overall performance. The analysis also reveals opportunities to improve sales consistency through better inventory planning and a more effective promotional calendar. These insights support strategies to stabilize monthly sales, maintain consistent demand, and improve overall revenue performance.
 
 ## Education
 **Hasanuddin University** | Makassar, Indonesia, 2021 - 2025  
